@@ -7,7 +7,7 @@ I've spent 8+ years building web products in TypeScript, mostly with Vue, Nuxt a
 ## Projects
 
 - **[Fayna](https://fayna.ai/?utm_source=github-profile&utm_medium=referral&utm_campaign=profile)** — a free résumé and cover-letter builder. It tailors a résumé to each job posting, writes cover letters, tracks applications and scores job fit. I designed and built it end to end (Nuxt 4, PostgreSQL, OpenAI / Gemini / Claude).
-- **[ShinePost](https://shine-post.com/)** — a post-production and AI content studio.
+- **[ShinePost](https://shine-post.com/)** — a post-production and AI content studio. I'm its developer.
 
 ## Open source
 
